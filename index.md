@@ -14,8 +14,8 @@ Previously, I obtained my Ph.D in Computer Science from the University of Hong K
 
 <br/>
 
-My general interest focus on applying computational methods and AI techniques to decipher biological data. I've led and participated various projects in the following topics: 1) Population Genetics, 2) Spatial Transcriptomics, 3) Gene Regulatory Networks, 4) Single Molecule Localization Microscope, 5) Small Variant Calling for Long Read Sequencing, 6) Protein Remote Homology Detection.
- 
+My general interest focuses on applying computational methods and AI techniques to decipher biological data. I've led and participated in various projects covering the following topics: 1) Population Genetics, 2) Spatial Transcriptomics, 3) Gene Regulatory Networks, 4) Single Molecule Localization Microscopy, 5) Small Variant Calling for Long Read Sequencing, and 6) Protein Remote Homology Detection.
+
 <br/>
 Outside of work, I enjoy running and hiking. I recently completed my first half marathon in Shunde, Guangdong (time cost: 2h10m).
 <br/>
