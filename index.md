@@ -7,7 +7,7 @@ image:
   feature: mountain.jpg
 ---
 
-I am a Post-Doctoral Fellow at <a href="http://luo-lab.hk/">Luo-lab</a>.
+I am a Post-Doctoral Fellow working with <a href="https://statbiomed.github.io/">Dr. Yuanhua Huang </a> and  <a href="http://luo-lab.hk/">Dr. Ruibang Luo</a>.
 
 <br />
 Previously, I obtained my Ph.D in Computer Science from the University of Hong Kong in 2022, advised by <a href="https://www.cs.hku.hk/people/academic-staff/rbluo">Dr. Ruibang Luo</a>, <a href="https://www.cs.hku.hk/index.php/people/academic-staff/twlam">Prof. Tak-Wah Lam</a>, <a href="https://www.cs.hku.hk/people/academic-staff/smyiu">Prof. Siuming Yiu</a>.
